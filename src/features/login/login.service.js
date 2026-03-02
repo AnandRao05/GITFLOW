@@ -1,2 +1,3 @@
-git add .
-git commit -m "Implement login feature"Login Service
+export function loginService() {
+    console.log("Login service working");
+}
